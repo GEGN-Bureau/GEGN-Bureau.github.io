@@ -1,2 +1,2 @@
-# GEGN-Bureau.github.io
+# GEGN
 General Horse Observation Network for Surveillance and Enforcement
